@@ -43,6 +43,17 @@ Agrega un efecto de sombra (glow) de color rojo alrededor de la imagen para que 
 
 Asegúrate de que esta ruta esté correctamente enlazada tanto en el main.dart como en el Drawer principal."
 A new Flutter project.
+<img width="1222" height="693" alt="image" src="https://github.com/user-attachments/assets/c4b2cb9f-5867-4b84-b542-aa102df84806" />
+<img width="1213" height="702" alt="image" src="https://github.com/user-attachments/assets/e8a688cd-0d25-4200-aad6-d1e92abc819b" />
+<img width="1213" height="698" alt="image" src="https://github.com/user-attachments/assets/4ea7c0a0-c47b-4f1f-aed4-1884283b9811" />
+<img width="1227" height="704" alt="image" src="https://github.com/user-attachments/assets/ac6572a3-9145-4234-b823-cf5e4f9c25a8" />
+<img width="389" height="652" alt="image" src="https://github.com/user-attachments/assets/b9115060-6126-4b2e-b7b7-4647d2e8cc1d" />
+<img width="396" height="679" alt="image" src="https://github.com/user-attachments/assets/2f6ca7c8-4965-48b7-9892-a7d1c1052e46" />
+
+
+
+
+
 
 ## Getting Started
 
